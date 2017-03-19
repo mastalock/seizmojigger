@@ -1,0 +1,13 @@
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\bin\Debug\Seizmojigger.exe.config
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\bin\Debug\Seizmojigger.exe.manifest
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\bin\Debug\Seizmojigger.application
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\bin\Debug\Seizmojigger.exe
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\bin\Debug\Seizmojigger.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.Properties.Resources.resources
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.csproj.GenerateResource.Cache
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.TrustInfo.xml
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.exe.manifest
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.application
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.exe
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.pdb
+c:\users\alan\documents\visual studio 2015\Projects\Seizmojigger\Seizmojigger\obj\Debug\Seizmojigger.csprojResolveAssemblyReference.cache
